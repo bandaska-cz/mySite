@@ -14,3 +14,9 @@ p:hover {
   background-color: blue;
   transition: background-color 2s ease-out;
 }
+
+.titulek {
+  position: relative;
+  margin-left: 100px;
+  margin-right: 100px;
+}
