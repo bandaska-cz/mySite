@@ -1,5 +1,5 @@
 body {
-  background-color: red;
+  background-color: #F7CCAC;
 }
 
 p::before {
@@ -16,7 +16,11 @@ p:hover {
 }
 
 .titulek {
-  position: relative;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin: auto;
+  width: 60%;
+  text-align: center;
+}
+
+.upperRow {
+  height: 20px;
 }
