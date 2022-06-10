@@ -94,7 +94,7 @@ p:hover {
   transition: background-color 2s ease-out;
 }
 
-#page > p:hover {
+.pGrid:hover {
   background-color: green;
   transition: background-color 2s ease-out;
 }
